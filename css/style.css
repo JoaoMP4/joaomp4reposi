@@ -144,7 +144,8 @@ main p {
 .images-container {
     display: flex;
     align-items: center;
-    gap: 20px;
+    justify-content: center;
+    gap: 40px;
     margin-top: 20px;
 }
 
